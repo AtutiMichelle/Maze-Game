@@ -1,7 +1,9 @@
 **MAZE GAME:**
 
   This code generates a 2D maze game developed using Python and Pygame. The game features a player, enemies, treasures, walls, and power-ups that respawn automatically after a short period. The player must collect treasures while avoiding enemies and navigating through the maze in order to win the game.
-  
+
+  ![Maze Game Preview](images/Screenshot 2024-11-16 200457.png)
+
 **FEATURES:**
 
 *Player Movement:* Move the player with arrow keys (**UP, DOWN, LEFT, RIGHT**).
