@@ -15,3 +15,12 @@
 *Game States:* The game includes the following states: *Playing:* The game is active.
                                                       *Game Over:* The player loses all lives. 
                                                       *Victory:* The player collects all treasures and levels up.
+
+**GAME CONTROLS:**
+
+*Arrow Keys:* Use **UP, DOWN, LEFT & RIGHT** to move the player around the maze.
+
+*R Key:* Restarts the game after a game over or victory.
+
+*Q Key:* Quits the game.
+
