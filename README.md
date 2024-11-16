@@ -5,9 +5,15 @@
 **FEATURES:**
 
 *Player Movement:* Move the player with arrow keys (**UP, DOWN, LEFT, RIGHT**).
+
 *Enemies:* Randomly moving enemies that can reduce the player's lives if touched.
+
 *Treasure:* Collect treasures to win the game and level up.
+
 *Power-ups:* Collect power-ups to obtain invincibility against enemies. Power-ups respawn automatically after a short delay. 
+
 *Game States:* The game includes the following states: *Playing:* The game is active.
+
                                                       *Game Over:* The player loses all lives. 
+                                                      
                                                       *Victory:* The player collects all treasures and levels up.
