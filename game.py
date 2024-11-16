@@ -1,3 +1,4 @@
+
 import pygame
 import random
 import math
@@ -26,11 +27,11 @@ ORANGE = (255, 165, 0)
 clock = pygame.time.Clock()
 
 # Load images
-wizard_image = pygame.image.load("../resized_wizard.gif")
-treasure_image = pygame.image.load("../resized_treasure.gif")
-wall_image = pygame.image.load("../resized_wall.gif")
-enemy_r_image = pygame.image.load("../resized_enemy_r.gif")
-enemy_l_image = pygame.image.load("../resized_enemy_l.gif")
+wizard_image = pygame.image.load("images/resized_wizard.gif")
+treasure_image = pygame.image.load("images/resized_treasure.gif")
+wall_image = pygame.image.load("images/resized_wall.gif")
+enemy_r_image = pygame.image.load("images/resized_enemy_r.gif")
+enemy_l_image = pygame.image.load("images/resized_enemy_l.gif")
 
 # Resize images to match the 24x24 size
 wizard_image = pygame.transform.scale(wizard_image, (24, 24))
